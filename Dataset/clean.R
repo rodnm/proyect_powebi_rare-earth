@@ -72,8 +72,7 @@ writeData(wb, "net_trade", df_combinado)
 saveWorkbook(wb, archivo_excel, overwrite = TRUE)
 
 # Exportar el dataframe combinado como CSV separado por "|"
-write.csv(df_combinado, archivo_csv, row.names = FALSE, sep = "|")
-# readr::write_excel_csv2(df_combinado, archivo_csv, row.names = FALSE, delim = "|")
+readr::write_delim(df_combinado, archivo_csv, delim = "|")
 
 # Mensaje de éxito
 cat("El archivo Excel ha sido guardado como", archivo_excel, "\n")
