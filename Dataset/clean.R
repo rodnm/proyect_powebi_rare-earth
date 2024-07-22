@@ -31,7 +31,8 @@ directorio <- dirname(rstudioapi::getSourceEditorContext()$path) # path del dire
 setwd(directorio)
 
 # Obtener la lista de archivos JSON en la carpeta
-archivos_json <- list.files(path = directorio, pattern = "*.json", full.names = TRUE)
+source_dir <- file.path(directorio, "source")
+archivos_json <- list.files(path = source_dir, pattern = "*.json", full.names = TRUE)
 
 # Definir el rango de años
 anios <- 1995:2022
