@@ -1,4 +1,6 @@
-# Extractor de datos de Series Estadísticas de BCRP ----
+# Procesamiento de datos de comercio mundial de tierras raras ----
+# Fuente: OEC
+# https://oec.world/en/profile/hs/rare-earth-metal-compounds?yearSelector2=1995&disaggregationCountry=aschn&yearSelector4=2021
 
 #######################################
 # Preparando el entorno ----
