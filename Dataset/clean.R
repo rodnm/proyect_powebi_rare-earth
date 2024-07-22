@@ -26,11 +26,11 @@ library(jsonlite)
 library(dplyr)
 library(openxlsx)
 
-# Definir el directorio de trabajo donde están los archivos JSON
-directorio <- dirname(rstudioapi::getSourceEditorContext()$path) # path del directorio que contiene este archivo R
+# Definir el directorio de trabajo que contiene este archivo R
+directorio <- dirname(rstudioapi::getSourceEditorContext()$path)
 setwd(directorio)
 
-# Obtener la lista de archivos JSON en la carpeta
+# Obtener la lista de archivos JSON en la carpeta source
 source_dir <- file.path(directorio, "source")
 archivos_json <- list.files(path = source_dir, pattern = "*.json", full.names = TRUE)
 
@@ -77,3 +77,4 @@ readr::write_delim(df_combinado, archivo_csv, delim = "|")
 # Mensaje de éxito
 cat("El archivo Excel ha sido guardado como", archivo_excel, "\n")
 cat("El archivo CSV ha sido guardado como", archivo_csv, "\n")
+
