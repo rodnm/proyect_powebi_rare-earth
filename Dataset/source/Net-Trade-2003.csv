@@ -1,0 +1,60 @@
+"ISO 3","Country ID","Country","Trade Value Export","Trade Value Import","Trade Value Delta"
+"civ","afciv","Cote d'Ivoire",115385,3663.9999999999995,111721
+"ken","afken","Kenya",29122,6790,22332
+"sen","afsen","Senegal",1388.0000000000002,11276,-9888
+"zaf","afzaf","South Africa",846883,4309123,-3462240
+"are","asare","United Arab Emirates",51132,62258,-11126
+"chn","aschn","China",189206503,9296237,179910266
+"hkg","ashkg","Hong Kong",1233056,4789925,-3556869
+"idn","asidn","Indonesia",36109,4325413,-4289304
+"ind","asind","India",765137.9999999999,1544678,-779540.0000000001
+"isr","asisr","Israel",993026.0000000001,623041,369985.0000000001
+"jpn","asjpn","Japan",60487935,99765225,-39277290
+"kaz","askaz","Kazakhstan",858705,332657,526048
+"kgz","askgz","Kyrgyzstan",237033,5843.999999999999,231189
+"kor","askor","South Korea",3442516.9999999995,38816287,-35373770
+"lka","aslka","Sri Lanka",5697,36853,-31156
+"mys","asmys","Malaysia",46712,4563006,-4516294
+"sau","assau","Saudi Arabia",231121,300813,-69692
+"sgp","assgp","Singapore",13142453,10304406,2838047
+"tha","astha","Thailand",11031,13086638,-13075607
+"tjk","astjk","Tajikistan",1000,57.99999999999999,942
+"tur","astur","Turkey",8550,1165872,-1157322
+"twn","astwn","Chinese Taipei",2155371,22703655,-20548284
+"aut","euaut","Austria",23874253,5988032,17886221
+"bel","eubel","Belgium",3011846,5954314,-2942468
+"bgr","eubgr","Bulgaria",993,67754,-66761
+"che","euche","Switzerland",752360,1310636,-558276
+"cze","eucze","Czechia",48146,3033875,-2985729
+"deu","eudeu","Germany",6382364,32937893,-26555529
+"dnk","eudnk","Denmark",19382,153615,-134233
+"esp","euesp","Spain",190582,4026404,-3835822
+"est","euest","Estonia",4784657,723087,4061570
+"fin","eufin","Finland",5176,636667,-631491
+"fra","eufra","France",67555692,27716306,39839386
+"gbr","eugbr","United Kingdom",21965494,24677997,-2712503
+"hrv","euhrv","Croatia",97,7990,-7893
+"irl","euirl","Ireland",1675340,3969535,-2294195
+"ita","euita","Italy",3788965,9594395,-5805430
+"ltu","eultu","Lithuania",3510,357093,-353583
+"nld","eunld","Netherlands",2037237,20273635,-18236398
+"nor","eunor","Norway",10630262,190164,10440098
+"pol","eupol","Poland",23996,541920,-517924
+"prt","euprt","Portugal",1479,357637,-356158
+"rus","eurus","Russia",23273997,2174476,21099521
+"svk","eusvk","Slovakia",805.9999999999999,70419,-69613
+"svn","eusvn","Slovenia",636,94383,-93747
+"swe","euswe","Sweden",12183,1683939,-1671756
+"ukr","euukr","Ukraine",69652,91831,-22179
+"can","nacan","Canada",359447,14414305,-14054858
+"cri","nacri","Costa Rica",288.00000000000006,23558,-23270
+"mex","namex","Mexico",100734,6019232,-5918498
+"nic","nanic","Nicaragua",29484,431,29053
+"slv","naslv","El Salvador",5145,77,5068
+"usa","nausa","United States",35924986,85423369,-49498383
+"aus","ocaus","Australia",281380,310032,-28652
+"ncl","ocncl","New Caledonia",30840,3518,27322
+"nzl","ocnzl","New Zealand",1947,10775,-8828
+"arg","saarg","Argentina",365498,263942,101556
+"bra","sabra","Brazil",49517,3887087,-3837570
+"ven","saven","Venezuela",27648.000000000004,35022,-7373.999999999996

@@ -1,0 +1,81 @@
+"ISO 3","Country ID","Country","Trade Value Export","Trade Value Import","Trade Value Delta"
+"bwa","afbwa","Botswana",74.00000000000001,67095,-67021
+"egy","afegy","Egypt",601,3061078,-3060477
+"gha","afgha","Ghana",5706,7408,-1702
+"ken","afken","Kenya",96,34371,-34275
+"mdg","afmdg","Madagascar",1554,1333,221
+"moz","afmoz","Mozambique",3412,79,3333
+"nam","afnam","Namibia",244,3041,-2797
+"nga","afnga","Nigeria",13.000000000000002,478,-465
+"tza","aftza","Tanzania",51,35037,-34986
+"uga","afuga","Uganda",1202,7917,-6715
+"zaf","afzaf","South Africa",5023123,9430372,-4407249
+"zwe","afzwe","Zimbabwe",10,11532,-11522
+"are","asare","United Arab Emirates",946675,941999.9999999999,4675.000000000116
+"chn","aschn","China",870541440,45362660,825178780
+"cyp","ascyp","Cyprus",290054.00000000006,9090,280964.00000000006
+"hkg","ashkg","Hong Kong",40493433,83821049,-43327616
+"idn","asidn","Indonesia",8109,7748379.000000001,-7740270.000000001
+"ind","asind","India",2375299,11891045,-9515746
+"isr","asisr","Israel",6827,2014656,-2007829
+"jpn","asjpn","Japan",269085835,382151875,-113066040
+"kaz","askaz","Kazakhstan",6880026,83572,6796454
+"kor","askor","South Korea",26566751,104467402,-77900651
+"lao","aslao","Laos",5837710,44420,5793290
+"lbn","aslbn","Lebanon",79675,5188,74487
+"lka","aslka","Sri Lanka",975785.9999999999,77508,898277.9999999999
+"mmr","asmmr","Burma",720881.0000000001,5882.000000000001,714999.0000000001
+"mys","asmys","Malaysia",2107683,28079110,-25971427
+"phl","asphl","Philippines",2879456,21575248,-18695792
+"sau","assau","Saudi Arabia",3859.9999999999995,1278779,-1274919
+"sgp","assgp","Singapore",10524202,28430359,-17906157
+"tha","astha","Thailand",2899061,14050387,-11151326
+"tur","astur","Turkey",64029,3207425,-3143396
+"twn","astwn","Chinese Taipei",2978974,59940500,-56961526
+"vnm","asvnm","Vietnam",12561405,60412355,-47850950
+"aut","euaut","Austria",96063676,27054362,69009314
+"bel","eubel","Belgium",3338815,22242194,-18903379
+"bgr","eubgr","Bulgaria",8295,31171,-22876
+"blr","eublr","Belarus",81400,1048723,-967323
+"che","euche","Switzerland",1276284,6132140,-4855856
+"cze","eucze","Czechia",293381,21672825,-21379444
+"deu","eudeu","Germany",70744151,132829673,-62085522
+"dnk","eudnk","Denmark",26375,1235353,-1208978
+"esp","euesp","Spain",2509553,20493671,-17984118
+"est","euest","Estonia",64845052,38117491,26727561
+"fin","eufin","Finland",6025,1126562,-1120537
+"fra","eufra","France",186965519.99999997,203493108,-16527588.00000003
+"gbr","eugbr","United Kingdom",19163203,20726341,-1563138
+"grc","eugrc","Greece",258928,90523,168405
+"hrv","euhrv","Croatia",22.000000000000004,242641.99999999997,-242619.99999999997
+"hun","euhun","Hungary",26752,4199617,-4172865
+"irl","euirl","Ireland",2222813,17010093,-14787280
+"ita","euita","Italy",33740905,49756750,-16015845
+"ltu","eultu","Lithuania",347301,452380,-105079
+"lux","eulux","Luxembourg",2351031,770287,1580744
+"lva","eulva","Latvia",100,5012843,-5012743
+"mkd","eumkd","North Macedonia",48487,347324.00000000006,-298837.00000000006
+"nld","eunld","Netherlands",15457193,44583964,-29126771
+"nor","eunor","Norway",32132741,1381838,30750903
+"pol","eupol","Poland",1696915,4024766,-2327851
+"prt","euprt","Portugal",51614.00000000001,961144,-909530
+"rou","eurou","Romania",254350,126365,127985
+"rus","eurus","Russia",37622791,12787042,24835749
+"srb","eusrb","Serbia",23393,67252,-43859
+"svn","eusvn","Slovenia",8362,1167457,-1159095
+"swe","euswe","Sweden",344275.00000000006,3964807,-3620532
+"ukr","euukr","Ukraine",123960,522484,-398524
+"can","nacan","Canada",54557875,16667796,37890079
+"cri","nacri","Costa Rica",11518,77788,-66270
+"cub","nacub","Cuba",124,258238,-258114
+"gtm","nagtm","Guatemala",27759,13695,14064
+"mex","namex","Mexico",81442,13904319,-13822877
+"slv","naslv","El Salvador",10891.000000000002,37881,-26990
+"tto","natto","Trinidad and Tobago",2280,2832,-552
+"usa","nausa","United States",108062675,405131591,-297068916
+"aus","ocaus","Australia",82196,2047674,-1965478
+"nzl","ocnzl","New Zealand",2688,93278,-90590
+"arg","saarg","Argentina",116495.99999999999,1523306,-1406810
+"bra","sabra","Brazil",8650,25087879,-25079229
+"col","sacol","Colombia",3052,636295,-633243
+"per","saper","Peru",10461,455869,-445408

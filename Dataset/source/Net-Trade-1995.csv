@@ -1,0 +1,44 @@
+"ISO 3","Country ID","Country","Trade Value Export","Trade Value Import","Trade Value Delta"
+"ken","afken","Kenya",637,640,-3
+"zaf","afzaf","South Africa",7945.999999999999,1879287,-1871341
+"chn","aschn","China",163410938,1453249,161957689
+"cyp","ascyp","Cyprus",1845,12019,-10174
+"hkg","ashkg","Hong Kong",3421010,6416825,-2995815
+"ind","asind","India",2038390,311912,1726478
+"jpn","asjpn","Japan",33957354,129747142,-95789788
+"kor","askor","South Korea",39333,19327339,-19288006
+"mys","asmys","Malaysia",38400,8786872,-8748472
+"prk","asprk","North Korea",658120,113500,544620
+"sau","assau","Saudi Arabia",15361,2728886,-2713525
+"sgp","assgp","Singapore",854591,6628354.999999999,-5773763.999999999
+"tha","astha","Thailand",19037,1383866,-1364829
+"twn","astwn","Chinese Taipei",4351901,10622836,-6270935
+"aut","euaut","Austria",10022540,4819461,5203079
+"bgr","eubgr","Bulgaria",52519,20614,31905
+"blx","eublx","Belgium-Luxembourg",2359340,5815150,-3455810
+"che","euche","Switzerland",546579,1686379,-1139800
+"cze","eucze","Czechia",34938,2132193,-2097255
+"deu","eudeu","Germany",4329752,38552587,-34222835
+"dnk","eudnk","Denmark",32715,116549,-83834
+"esp","euesp","Spain",212231,2991579,-2779348
+"est","euest","Estonia",16555939,5537213,11018726
+"fin","eufin","Finland",15526,684231,-668705
+"fra","eufra","France",116650582,31999217,84651365
+"gbr","eugbr","United Kingdom",16305176,16108831,196345
+"grc","eugrc","Greece",45443.00000000001,204227,-158784
+"hun","euhun","Hungary",282080,2204831,-1922751
+"irl","euirl","Ireland",137144,392128,-254984
+"ita","euita","Italy",1946168,6097928,-4151760
+"ltu","eultu","Lithuania",29699,326457,-296758
+"nld","eunld","Netherlands",1709304,21357626,-19648322
+"nor","eunor","Norway",809232,277123,532109
+"pol","eupol","Poland",6927,744031,-737104
+"prt","euprt","Portugal",1575,350496,-348921
+"rus","eurus","Russia",11052324,1085892,9966432
+"svn","eusvn","Slovenia",62796.00000000001,118639,-55842.99999999999
+"swe","euswe","Sweden",74671,1550501,-1475830
+"ukr","euukr","Ukraine",132000,3601.0000000000005,128399
+"can","nacan","Canada",1028090,6785779,-5757689
+"usa","nausa","United States",56647275,100164272,-43516997
+"aus","ocaus","Australia",238841,912807,-673966
+"bra","sabra","Brazil",12263,3631547,-3619284

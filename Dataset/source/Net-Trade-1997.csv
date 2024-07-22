@@ -1,0 +1,51 @@
+"ISO 3","Country ID","Country","Trade Value Export","Trade Value Import","Trade Value Delta"
+"civ","afciv","Cote d'Ivoire",4661,5937,-1276
+"mar","afmar","Morocco",92789,347985,-255196
+"zaf","afzaf","South Africa",51837,4569447,-4517610
+"are","asare","United Arab Emirates",2676,7924,-5248
+"chn","aschn","China",209178021,2353847,206824174
+"hkg","ashkg","Hong Kong",5635660,6781502,-1145842
+"idn","asidn","Indonesia",65316,525939,-460623
+"ind","asind","India",2291897,1773791,518106
+"isr","asisr","Israel",8000,157289,-149289
+"jpn","asjpn","Japan",33806468,121543306,-87736838
+"kaz","askaz","Kazakhstan",1643666,1766343,-122677
+"kgz","askgz","Kyrgyzstan",1533305,107121.00000000001,1426184
+"kor","askor","South Korea",240603.99999999997,27889763,-27649159
+"mys","asmys","Malaysia",48150,6680346,-6632196
+"sgp","assgp","Singapore",1317239,7763225,-6445986
+"tha","astha","Thailand",36868,1564760,-1527892
+"tur","astur","Turkey",9505,1385251,-1375746
+"twn","astwn","Chinese Taipei",4472740,11091966,-6619226
+"aut","euaut","Austria",11116137,5900807,5215330
+"blr","eublr","Belarus",80100,36459,43641
+"blx","eublx","Belgium-Luxembourg",1976551,6541408,-4564857
+"che","euche","Switzerland",317640,2156103,-1838463
+"cze","eucze","Czechia",20545,2000496.0000000002,-1979951.0000000002
+"deu","eudeu","Germany",3306909,44810143,-41503234
+"dnk","eudnk","Denmark",29725,98794,-69069
+"esp","euesp","Spain",912358,3505330,-2592972
+"est","euest","Estonia",5099156,5642453,-543297
+"fin","eufin","Finland",5127.999999999999,569609,-564481
+"fra","eufra","France",85955411,24536254,61419157
+"gbr","eugbr","United Kingdom",14007278,20378974,-6371696
+"hun","euhun","Hungary",65342,3498438,-3433096
+"irl","euirl","Ireland",98328,238266,-139938
+"ita","euita","Italy",447969,7245110,-6797141
+"ltu","eultu","Lithuania",63800,367803,-304003
+"nld","eunld","Netherlands",807948,18805100,-17997152
+"nor","eunor","Norway",12990430,326693,12663737
+"pol","eupol","Poland",50687,546174,-495487
+"prt","euprt","Portugal",1615.9999999999998,350089,-348473
+"rus","eurus","Russia",6260455,1915930,4344525
+"svk","eusvk","Slovakia",7502.000000000001,225831.00000000003,-218329.00000000003
+"swe","euswe","Sweden",12299,331200,-318901
+"ukr","euukr","Ukraine",158810,161782,-2972
+"can","nacan","Canada",2667342,8024117,-5356775
+"gtm","nagtm","Guatemala",24795,13656,11139
+"jam","najam","Jamaica",844.0000000000001,54162.00000000001,-53318.00000000001
+"mex","namex","Mexico",22667.000000000004,1245040,-1222373
+"usa","nausa","United States",55901005,97105976,-41204971
+"aus","ocaus","Australia",218632,1245220,-1026588
+"arg","saarg","Argentina",12480,326943,-314463
+"bra","sabra","Brazil",2447,4375958,-4373511
